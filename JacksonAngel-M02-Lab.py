@@ -2,7 +2,7 @@
 # JacksonAngel-M02-Lab.py
 # This app will accept student names and GPAs and test if the student qualifies for either the Dean's List or the Honor Roll.
 
-# Create a function named main to check student qualifications
+# Create a function named main to check student qualifications.
 def main():
   # Get the student's last name.
   last_name = input("Enter the student's last name: ")
